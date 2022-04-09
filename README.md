@@ -1,5 +1,5 @@
 # Sessions
 Save chrome tabs as sessions
-Submission for Hack4Bengal... Build in progress
 <br>
-![sessions logo](https://user-images.githubusercontent.com/42151354/162579035-8f4ec630-0479-43a4-8187-362fd6dd13ff.png)
+![ezgif-3-e09ce27683](https://user-images.githubusercontent.com/42151354/162585583-c35a0b64-7632-470a-89b9-c5282714d5de.gif)
+
