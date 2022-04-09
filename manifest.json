@@ -5,5 +5,11 @@
     "permissions": ["unlimitedStorage","tabs"],
     "action": {
         "default_popup":"popup.html"
+    },
+    "icons": {
+        "16": "sessions logo.png",
+        "32": "sessions logo.png",
+        "48": "sessions logo.png",
+        "128": "sessions logo.png"
     }
 }
