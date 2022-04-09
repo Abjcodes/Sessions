@@ -1,0 +1,9 @@
+{
+    "name":"Session Manager",
+    "version":"1.0",
+    "manifest_version": 3,
+    "permissions": ["unlimitedStorage","tabs"],
+    "action": {
+        "default_popup":"popup.html"
+    }
+}
