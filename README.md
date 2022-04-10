@@ -23,8 +23,3 @@ Save chrome tabs as sessions
 3. Click on "Load unpacked" and load the cloned repository
 4. The extension will be now available on chrome
 5. Still getting stuck ? Check this website for help: <a href="https://www.cnet.com/tech/services-and-software/how-to-install-chrome-extensions-manually/">Manually install extensions</a>
-
-## Screenshots
----
-![image](https://user-images.githubusercontent.com/42151354/162625020-4ef55f6d-2dfb-4b04-b83b-cb7f6ef76789.png)
-![image](https://user-images.githubusercontent.com/42151354/162625052-5113d5b4-f765-4441-8874-aa5bfbd3837c.png)
