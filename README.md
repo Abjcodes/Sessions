@@ -2,6 +2,8 @@
 
 Save chrome tabs as sessions
 
+![ezgif-3-e09ce27683](https://user-images.githubusercontent.com/42151354/162585583-c35a0b64-7632-470a-89b9-c5282714d5de.gif)
+
 ## Functions Available
 ---
 
@@ -14,5 +16,5 @@ Save chrome tabs as sessions
 1. HTML/CSS and JS 
 2. Moment.js for date and time parsing
 
-![ezgif-3-e09ce27683](https://user-images.githubusercontent.com/42151354/162585583-c35a0b64-7632-470a-89b9-c5282714d5de.gif)
+
 
