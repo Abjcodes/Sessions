@@ -5,8 +5,14 @@ Save chrome tabs as sessions
 ## Functions Available
 ---
 
-1. Librarian can insert the book details and delete the books availabe.
-2. The books can be issued using customer's id and name and can be returned.
-<br>
+1. User can create workspaces from open tabs in just one click
+2. The sessions can be restored at any time. They will stored in local storage and will not be erased.
+3. Ability to name sessions, restore and delete them.
+
+## Technologies Used
+---
+1. HTML/CSS and JS 
+2. Moment.js for date and time parsing
+
 ![ezgif-3-e09ce27683](https://user-images.githubusercontent.com/42151354/162585583-c35a0b64-7632-470a-89b9-c5282714d5de.gif)
 
