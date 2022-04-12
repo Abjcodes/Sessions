@@ -7,7 +7,7 @@ Save chrome tabs as sessions
 ## Functions Available
 ---
 
-1. User can create workspaces from open tabs in just one click
+1. User can create workspaces from open tabs in just one click.
 2. The sessions can be restored at any time. They will stored in local storage and will not be erased.
 3. Ability to name sessions, restore and delete them.
 
