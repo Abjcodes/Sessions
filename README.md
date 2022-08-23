@@ -1,7 +1,8 @@
 # Sessions
 
 Save chrome tabs as sessions
-  
+
+![Sessions_page-0001](https://user-images.githubusercontent.com/42151354/186236960-c18497c9-273e-4721-a514-2bb8b0250155.jpg)
 ![ezgif-3-e09ce27683](https://user-images.githubusercontent.com/42151354/162585583-c35a0b64-7632-470a-89b9-c5282714d5de.gif)
 
 ## Functions Available
